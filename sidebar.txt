@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wa:home|Door43 (wa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wa|d43-wa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wa/archive/master.zip|d43-wa.zip]]
+
+**Recent Changes**
+{{changes>ns = wa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wa|Ethnologue data]]
+
